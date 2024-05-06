@@ -23,5 +23,4 @@ public class Documentt{
     @JsonIgnore
     @DBRef
     Course CourseDoc;
-
 }
